@@ -10,41 +10,21 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=4500&pause=500&color=6366F1&center=true&width=600&lines=🚀+AI%2FML+Engineer;💻+Computer+Vision+Expert;🧠+NLP+Enthusiast;📊+Data+Science+Pioneer" alt="Anusri's roles"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=4500&pause=500&color=6366F1&center=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+Expert;NLP+Enthusiast;Data+Science+Pioneer" alt="Anusri's roles"/>
   </a>
 </div>
-
-<div align="center">
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanusri-kadam&countColor=%236366F1&style=flat)](https://visitorbadge.io/profile/anusri-kadam)
-  [![GitHub followers](https://img.shields.io/github/followers/anusri-kadam?logo=github&style=flat&color=6366F1)](https://github.com/anusri-kadam)
-  [![GitHub Stars](https://img.shields.io/github/stars/anusri-kadam?style=flat&color=6366F1)](https://github.com/anusri-kadam)
-  
-</div>
-
 ---
 
-## 👋 About Me
+## About Me
 
 Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine learning**, **deep learning**, **computer vision**, and **NLP**. I develop production-ready solutions across healthcare, fintech, and environmental sectors. **Patent-published developer** with hands-on experience translating complex data into real-world applications.
 
-📍 **Pune, India** | 🎓 **Third-year B.Tech in AIML** at Symbiosis Institute of Technology
+📍 **Pune, India** |  **Third-year B.Tech in AIML** at Symbiosis Institute of Technology
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusri-kadam&theme=indigo&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anusri-kadam&theme=indigo&hide_border=true&layout=compact&langs_count=8)
-  
-</div>
-
----
-
-## 🛠️ Main Skills
+##  Main Skills
 
 <div align="center">
 
@@ -52,7 +32,7 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 </div>
 
-### 🔧 Technical Stack
+### Technical Stack
 
 <table>
 <tr>
@@ -97,21 +77,21 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🏥 Care Companion - Medical Report Analyzer
+###  Care Companion - Medical Report Analyzer
 **Patent Published | Jan 2025 - May 2025**
 
 </div>
 
 ```
-├── 📋 OCR Text Extraction
-├── 🏷️ Named Entity Recognition (SpaCy)
-├── 📝 T5 Transformer Summarization
-├── 🌐 Multilingual Translation
-└── ⚛️ React Web Interface
+├──  OCR Text Extraction
+├──  Named Entity Recognition (SpaCy)
+├──  T5 Transformer Summarization
+├──  Multilingual Translation
+└──  React Web Interface
 ```
 
 **Highlights:**
@@ -129,7 +109,7 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 </div>
 
 ```
-📊 Performance Metrics:
+ Performance Metrics:
   ✓ Environment Hygiene Detection: 90% Accuracy
   ✓ Chef Hygiene Analysis: 85% Accuracy
   ✓ Inference Time: < 10 seconds
@@ -146,13 +126,13 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 <div align="center">
 
-### 🌿 Plant Identification System for Indian Flora
+###  Plant Identification System for Indian Flora
 **NGO Project - Seer Bharat Foundation | Jul 2025 - Dec 2025**
 
 </div>
 
 ```
-📱 Interactive Features:
+ Interactive Features:
   • Real-time image classification
   • 150+ Indian medicinal plants & flowers
   • Multilingual chatbot support
@@ -163,13 +143,13 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 <div align="center">
 
-### 💰 AI-Based Receipt Tampering Detection
+###  AI-Based Receipt Tampering Detection
 **Jan 2026**
 
 </div>
 
 ```
-🔐 Detection Pipeline:
+ Detection Pipeline:
   Stage 1: Image Classification
   Stage 2: Region Localization
   Stage 3: Anomaly Scoring
@@ -182,13 +162,13 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 <div align="center">
 
-### 📊 Interactive Stock Portfolio Dashboard
+###  Interactive Stock Portfolio Dashboard
 **Jul 2025**
 
 </div>
 
 ```
-📈 Analytics Metrics:
+ Analytics Metrics:
   • Sharpe Ratio Analysis
   • Volatility Calculations
   • Return Metrics (5+ years)
@@ -198,24 +178,24 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ---
 
-## 📚 Publications & Certifications
+##  Publications & Certifications
 
 <div align="center">
 
 | Type | Title | Date |
 |------|-------|------|
-| 📜 **Research** | Tomato Leaf Disease Prediction (Multi-Task Learning) - Springer Nature | April 2026 |
-| 🏆 **Patent** | Medical Report Analysis using NLP & Multilingual Translation | Jan 2026 |
-| 🤖 **Certification** | AI Agent Specialization: CrewAI (deeplearning.ai) | Jul 2025 |
+|  **Research** | Tomato Leaf Disease Prediction (Multi-Task Learning) - Springer Nature | April 2026 |
+|  **Patent** | Medical Report Analysis using NLP & Multilingual Translation | Jan 2026 |
+|  **Certification** | AI Agent Specialization: CrewAI (deeplearning.ai) | Jul 2025 |
 
 </div>
 
 ---
 
-## 🎓 Education
+##  Education
 
 ```
-📚 Symbiosis Institute of Technology, Pune
+ Symbiosis Institute of Technology, Pune
    └─ B.Tech in Artificial Intelligence & Machine Learning
       ├─ Duration: 2023 - 2027
       ├─ CGPA: 7.76/10
@@ -224,22 +204,22 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ---
 
-## 📈 Current Learning
+##  Current Learning
 
 <div align="center">
 
 ```
-🧠 Advanced Reinforcement Learning
-🔗 Multi-Task Learning Architectures  
-🚀 Large Language Model Fine-tuning
-⚡ Edge AI & Model Compression
+ Advanced Reinforcement Learning
+ Multi-Task Learning Architectures  
+ Large Language Model Fine-tuning
+ Edge AI & Model Compression
 ```
 
 </div>
 
 ---
 
-## 🤝 Connect with Me!
+## Connect with Me!
 
 <div align="center">
 
@@ -252,10 +232,10 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ---
 
-## 💼 Open to Opportunities
+##  Open to Opportunities
 
 > [!IMPORTANT]  
-> **🎯 I'm actively seeking opportunities in:**
+> ** I'm actively seeking opportunities in:**
 > - **AI/ML Engineering** | **Computer Vision** | **NLP Applications**
 > - **Production ML Systems** | **Healthcare AI** | **Fintech Solutions**
 >
@@ -278,15 +258,6 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ---
 
-## 💡 Fun Fact
-
-```
-While training ML models by day, I'm exploring how AI can solve real-world 
-problems in healthcare, environmental conservation, and financial fraud detection! 
-🌍💙
-```
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" alt="footer"/>
 
