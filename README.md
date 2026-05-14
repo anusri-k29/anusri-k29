@@ -245,7 +245,7 @@ Edge AI & Model Compression
 > - AI/ML Engineering | Computer Vision | NLP Applications
 > - Production ML Systems | Healthcare AI | Fintech Solutions
 >
-> Download my Resume: [Google Drive Link]([https://drive.google.com/drive/folders/YOUR-DRIVE-LINK](https://drive.google.com/file/d/1sMLLnTawkbJJfYQN_t_DXxfZFw9i2Tk7/view?usp=drive_link)
+> Download my Resume: [Google Drive Link](https://drive.google.com/file/d/1sMLLnTawkbJJfYQN_t_DXxfZFw9i2Tk7/view?usp=drive_link)
 >
 > Email: anusrikadam@gmail.com
 
