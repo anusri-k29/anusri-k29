@@ -8,7 +8,11 @@
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=80&fontFamily=Monaspace%20New&fontColor=fff" alt="header"/> 
-
+<style>
+h2 {
+  color: #E6D6FF;
+}
+</style>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter+New&weight=900&size=32&duration=4500&pause=500&color=AC3097&center=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Enthusiast;NLP+Enthusiast;Data+Science+" alt="Anusri's roles"/>
