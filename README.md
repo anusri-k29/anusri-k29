@@ -3,23 +3,15 @@
     Happy to see you here exploring my GitHub profile
     Feel free to explore my projects and connect with me!
     
-    Please consider following me for more updates on ML and AI projects :)
+    Please consider following me for more updates on ML and AI projects
     You may also want to connect with me on LinkedIn @anusri-kadam
 -->
 
-<style>
-  :root {
-    --retro-purple: #AC3097;
-    --retro-dark: #56565E;
-    --retro-light: #E8D5E8;
-  }
-</style>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=60&fontColor=fff" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=80&fontFamily=Courier%20New&fontColor=fff" alt="header"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=4500&pause=500&color=AC3097&center=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+Expert;NLP+Enthusiast;Data+Science+Pioneer" alt="Anusri's roles"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=32&duration=4500&pause=500&color=AC3097&center=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Expert;NLP+Enthusiast;Data+Science+Pioneer" alt="Anusri's roles"/>
   </a>
 </div>
 
@@ -47,7 +39,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 <tr>
 <td width="50%">
 
-**Languages & Frameworks**
+<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Languages & Frameworks</h4>
+
 - Python, Java, SQL, JavaScript, C
 - TensorFlow, PyTorch, Keras
 - React.js, HTML, CSS
@@ -55,7 +48,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 </td>
 <td width="50%">
 
-**Specialized Skills**
+<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Specialized Skills</h4>
+
 - Computer Vision & OpenCV
 - NLP & Transformers (T5, SpaCy)
 - Vision Language Models
@@ -66,7 +60,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 <tr>
 <td width="50%">
 
-**Data & Databases**
+<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Data & Databases</h4>
+
 - MongoDB, MySQL
 - Power BI, Pandas, NumPy
 - Data preprocessing & analysis
@@ -74,7 +69,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 </td>
 <td width="50%">
 
-**Deployment & Tools**
+<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Deployment & Tools</h4>
+
 - Production deployment
 - Model optimization
 - Git, Docker, AWS
@@ -90,8 +86,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <div align="center">
 
-### <span style="color: #AC3097;">Care Companion</span> - Medical Report Analyzer
-**Patent Published | Jan 2025 - May 2025**
+<h3 style="color: #AC3097; font-size: 24px;">Care Companion - Medical Report Analyzer</h3>
+<p><strong>Patent Published</strong> | Jan 2025 - May 2025</p>
 
 </div>
 
@@ -112,8 +108,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <div align="center">
 
-### <span style="color: #AC3097;">CNN-Based Explainable AI</span> for Quality Inspection
-**Mealawe Industry Project | Jan 2026 - Apr 2026**
+<h3 style="color: #AC3097; font-size: 24px;">CNN-Based Explainable AI for Quality Inspection</h3>
+<p><strong>Mealawe Industry Project</strong> | Jan 2026 - Apr 2026</p>
 
 </div>
 
@@ -135,8 +131,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <div align="center">
 
-### <span style="color: #AC3097;">Plant Identification System</span> for Indian Flora
-**NGO Project - Seer Bharat Foundation | Jul 2025 - Dec 2025**
+<h3 style="color: #AC3097; font-size: 24px;">Plant Identification System for Indian Flora</h3>
+<p><strong>NGO Project - Seer Bharat Foundation</strong> | Jul 2025 - Dec 2025</p>
 
 </div>
 
@@ -152,8 +148,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <div align="center">
 
-### <span style="color: #AC3097;">AI-Based Receipt Tampering</span> Detection
-**Jan 2026**
+<h3 style="color: #AC3097; font-size: 24px;">AI-Based Receipt Tampering Detection</h3>
+<p><strong>Jan 2026</strong></p>
 
 </div>
 
@@ -171,8 +167,8 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <div align="center">
 
-### <span style="color: #AC3097;">Interactive Stock Portfolio</span> Dashboard
-**Jul 2025**
+<h3 style="color: #AC3097; font-size: 24px;">Interactive Stock Portfolio Dashboard</h3>
+<p><strong>Jul 2025</strong></p>
 
 </div>
 
