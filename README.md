@@ -7,6 +7,14 @@
     You may also want to connect with me on LinkedIn @anusri-kadam
 -->
 
+<style>
+  :root {
+    --retro-purple: #AC3097;
+    --retro-dark: #56565E;
+    --retro-light: #E8D5E8;
+  }
+</style>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=60&fontColor=fff" alt="header"/> 
 
 <div align="center">
@@ -39,7 +47,7 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 <tr>
 <td width="50%">
 
-$${\color{#AC3097}Languages \space \& \space Frameworks}$$
+**Languages & Frameworks**
 - Python, Java, SQL, JavaScript, C
 - TensorFlow, PyTorch, Keras
 - React.js, HTML, CSS
@@ -47,7 +55,7 @@ $${\color{#AC3097}Languages \space \& \space Frameworks}$$
 </td>
 <td width="50%">
 
-$${\color{#AC3097}Specialized \space Skills}$$
+**Specialized Skills**
 - Computer Vision & OpenCV
 - NLP & Transformers (T5, SpaCy)
 - Vision Language Models
@@ -58,7 +66,7 @@ $${\color{#AC3097}Specialized \space Skills}$$
 <tr>
 <td width="50%">
 
-$${\color{#AC3097}Data \space \& \space Databases}$$
+**Data & Databases**
 - MongoDB, MySQL
 - Power BI, Pandas, NumPy
 - Data preprocessing & analysis
@@ -66,7 +74,7 @@ $${\color{#AC3097}Data \space \& \space Databases}$$
 </td>
 <td width="50%">
 
-$${\color{#AC3097}Deployment \space \& \space Tools}$$
+**Deployment & Tools**
 - Production deployment
 - Model optimization
 - Git, Docker, AWS
@@ -82,7 +90,7 @@ $${\color{#AC3097}Deployment \space \& \space Tools}$$
 
 <div align="center">
 
-$${\color{#AC3097}Care \space Companion \space - \space Medical \space Report \space Analyzer}$$
+### <span style="color: #AC3097;">Care Companion</span> - Medical Report Analyzer
 **Patent Published | Jan 2025 - May 2025**
 
 </div>
@@ -104,7 +112,7 @@ $${\color{#AC3097}Care \space Companion \space - \space Medical \space Report \s
 
 <div align="center">
 
-$${\color{#AC3097}CNN-Based \space Explainable \space AI \space for \space Quality \space Inspection}$$
+### <span style="color: #AC3097;">CNN-Based Explainable AI</span> for Quality Inspection
 **Mealawe Industry Project | Jan 2026 - Apr 2026**
 
 </div>
@@ -127,7 +135,7 @@ $${\color{#AC3097}CNN-Based \space Explainable \space AI \space for \space Quali
 
 <div align="center">
 
-$${\color{#AC3097}Plant \space Identification \space System \space for \space Indian \space Flora}$$
+### <span style="color: #AC3097;">Plant Identification System</span> for Indian Flora
 **NGO Project - Seer Bharat Foundation | Jul 2025 - Dec 2025**
 
 </div>
@@ -144,7 +152,7 @@ $${\color{#AC3097}Plant \space Identification \space System \space for \space In
 
 <div align="center">
 
-$${\color{#AC3097}AI-Based \space Receipt \space Tampering \space Detection}$$
+### <span style="color: #AC3097;">AI-Based Receipt Tampering</span> Detection
 **Jan 2026**
 
 </div>
@@ -163,7 +171,7 @@ $${\color{#AC3097}AI-Based \space Receipt \space Tampering \space Detection}$$
 
 <div align="center">
 
-$${\color{#AC3097}Interactive \space Stock \space Portfolio \space Dashboard}$$
+### <span style="color: #AC3097;">Interactive Stock Portfolio</span> Dashboard
 **Jul 2025**
 
 </div>
@@ -209,10 +217,13 @@ $${\color{#AC3097}Interactive \space Stock \space Portfolio \space Dashboard}$$
 
 <div align="center">
 
-$${\color{#AC3097}Advanced \space Reinforcement \space Learning}$$
-$${\color{#AC3097}Multi-Task \space Learning \space Architectures}$$
-$${\color{#AC3097}Large \space Language \space Model \space Fine-tuning}$$
-$${\color{#AC3097}Edge \space AI \space \& \space Model \space Compression}$$
+Advanced Reinforcement Learning
+
+Multi-Task Learning Architectures
+
+Large Language Model Fine-tuning
+
+Edge AI & Model Compression
 
 </div>
 
