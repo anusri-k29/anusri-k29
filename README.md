@@ -35,8 +35,6 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 ### Currently Studying
 - Advanced reinforcement learning techniques
-- Multi-task learning architectures
-- Large language model fine-tuning
 
 ---
 
@@ -94,13 +92,8 @@ Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine lea
 
 **Symbiosis Institute of Technology, Lavale, Pune**
 - B.Tech in Artificial Intelligence and Machine Learning (2023 - 2027)
-- CGPA: 7.76/10
+- CGPA: 7.71/10
 
----
-
-## 📖 Blog & Insights
-
-I occasionally share insights on AI, machine learning, and tech career development. Check back soon for detailed articles!
 
 ---
 
