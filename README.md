@@ -6,128 +6,299 @@
     Please consider following me for more updates on ML and AI projects :)
     You may also want to connect with me on LinkedIn @anusri-kadam
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header" alt="header"/> 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=6366F1&width=500&lines=Hello%2C+I'm+Anusri+Kadam;AI%2FML+Engineer;Computer+Vision+Expert;NLP+Enthusiast" alt="AI/ML Engineer"/>
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Anusri%20Kadam&fontSize=60&fontColor=fff" alt="header"/> 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=4500&pause=500&color=6366F1&center=true&width=600&lines=🚀+AI%2FML+Engineer;💻+Computer+Vision+Expert;🧠+NLP+Enthusiast;📊+Data+Science+Pioneer" alt="Anusri's roles"/>
+  </a>
+</div>
+
+<div align="center">
+  
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanusri-kadam&countColor=%236366F1&style=flat)](https://visitorbadge.io/profile/anusri-kadam)
+  [![GitHub followers](https://img.shields.io/github/followers/anusri-kadam?logo=github&style=flat&color=6366F1)](https://github.com/anusri-kadam)
+  [![GitHub Stars](https://img.shields.io/github/stars/anusri-kadam?style=flat&color=6366F1)](https://github.com/anusri-kadam)
+  
+</div>
+
+---
 
 ## 👋 About Me
 
-Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine learning**, **deep learning**, **computer vision**, and **NLP**. I develop production-ready solutions across healthcare, fintech, and environmental sectors. Patent-published developer with hands-on experience translating complex data into real-world applications.
+Motivated and detail-oriented **AI/ML Engineer** with expertise in **machine learning**, **deep learning**, **computer vision**, and **NLP**. I develop production-ready solutions across healthcare, fintech, and environmental sectors. **Patent-published developer** with hands-on experience translating complex data into real-world applications.
 
 📍 **Pune, India** | 🎓 **Third-year B.Tech in AIML** at Symbiosis Institute of Technology
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusri-kadam&theme=indigo&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anusri-kadam&theme=indigo&hide_border=true&layout=compact&langs_count=8)
+  
+</div>
+
+---
+
 ## 🛠️ Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,react,mongodb,mysql,java,javascript,github,git,html,css&perline=7)](https://skillicons.dev)
+<div align="center">
 
-### Technical Stack
-- **Programming Languages**: Python, SQL, Java, JavaScript, C
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Keras, scikit-learn
-- **Computer Vision**: OpenCV, CNN, Vision Language Models (VLM)
-- **NLP**: SpaCy, NLTK, Named Entity Recognition, T5 Transformer
-- **Web & Frontend**: React.js, HTML, CSS
-- **Databases**: MongoDB, MySQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Core Competencies**: Model optimization, explainable AI, production deployment, software testing
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,react,mongodb,mysql,java,javascript,github,git,html,css,aws,docker&perline=8)](https://skillicons.dev)
 
-### Currently Studying
-- Advanced reinforcement learning techniques
+</div>
+
+### 🔧 Technical Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**Languages & Frameworks**
+- Python, Java, SQL, JavaScript, C
+- TensorFlow, PyTorch, Keras
+- React.js, HTML, CSS
+
+</td>
+<td width="50%">
+
+**Specialized Skills**
+- Computer Vision & OpenCV
+- NLP & Transformers (T5, SpaCy)
+- Vision Language Models
+- Explainable AI (XAI)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Data & Databases**
+- MongoDB, MySQL
+- Power BI, Pandas, NumPy
+- Data preprocessing & analysis
+
+</td>
+<td width="50%">
+
+**Deployment & Tools**
+- Production deployment
+- Model optimization
+- Git, Docker, AWS
+- Software testing
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🏥 Care Companion - Medical Report Analyzer
 **Patent Published | Jan 2025 - May 2025**
-- Built end-to-end NLP pipeline using OCR, Named Entity Recognition (SpaCy), and fine-tuned T5 transformer
-- Integrated multilingual translation for healthcare professionals
-- Deployed via React interface with real-time document interpretation
-- 📜 **Patent**: System and Method for Medical Report Analysis using NLP and Multilingual Translation
+
+</div>
+
+```
+├── 📋 OCR Text Extraction
+├── 🏷️ Named Entity Recognition (SpaCy)
+├── 📝 T5 Transformer Summarization
+├── 🌐 Multilingual Translation
+└── ⚛️ React Web Interface
+```
+
+**Highlights:**
+- End-to-end NLP pipeline for medical document interpretation
+- Patent published for innovative methodology
+- Deployed healthcare professional interface
+
+---
+
+<div align="center">
 
 ### 🔍 CNN-Based Explainable AI for Quality Inspection
 **Mealawe Industry Project | Jan 2026 - Apr 2026**
-- Developed computer vision system for environment & chef hygiene detection in cloud kitchens
-- Optimized Vision Language Model (Qwen) inference to under 10 seconds
-- Achieved **90% accuracy** for environment hygiene, **85% for chef hygiene detection**
-- Integrated explainable AI for full interpretability in production
+
+</div>
+
+```
+📊 Performance Metrics:
+  ✓ Environment Hygiene Detection: 90% Accuracy
+  ✓ Chef Hygiene Analysis: 85% Accuracy
+  ✓ Inference Time: < 10 seconds
+  ✓ Vision Language Model: Quantized Qwen
+```
+
+**Key Features:**
+- Computer vision system for cloud kitchen hygiene
+- Quantized Vision Language Model integration
+- Explainable AI for production interpretability
+- Real-time deployment optimization
+
+---
+
+<div align="center">
 
 ### 🌿 Plant Identification System for Indian Flora
 **NGO Project - Seer Bharat Foundation | Jul 2025 - Dec 2025**
-- Deep learning-based image classification for 150+ Indian medicinal plants & flowers
-- Web interface with chatbot and multilingual translation
-- Real-time plant identification for environmental conservation impact
-- Community-focused educational application
 
-### 💰 AI-Based Receipt Tampering Detection System
+</div>
+
+```
+📱 Interactive Features:
+  • Real-time image classification
+  • 150+ Indian medicinal plants & flowers
+  • Multilingual chatbot support
+  • Environmental conservation impact
+```
+
+---
+
+<div align="center">
+
+### 💰 AI-Based Receipt Tampering Detection
 **Jan 2026**
-- Computer vision & OCR-based fraud detection system
-- 3-stage pipeline: classification, localization, and anomaly scoring
-- Trained on real and synthetically generated datasets
-- Automated verification with explainable outputs
 
-### 📊 Interactive Stock Portfolio Analysis Dashboard
+</div>
+
+```
+🔐 Detection Pipeline:
+  Stage 1: Image Classification
+  Stage 2: Region Localization
+  Stage 3: Anomaly Scoring
+  
+  → Identifies & highlights manipulated regions
+  → Automated fraud verification
+```
+
+---
+
+<div align="center">
+
+### 📊 Interactive Stock Portfolio Dashboard
 **Jul 2025**
-- Built analytics dashboard using Power BI analyzing 5+ years of financial data
-- Engineered DAX-based KPIs: Sharpe Ratio, volatility, returns, maximum drawdown
-- Market benchmarking against S&P 500, NASDAQ, Dow Jones
-- Advanced star schema data modeling
+
+</div>
+
+```
+📈 Analytics Metrics:
+  • Sharpe Ratio Analysis
+  • Volatility Calculations
+  • Return Metrics (5+ years)
+  • Maximum Drawdown
+  • S&P 500, NASDAQ, Dow Jones Benchmarking
+```
 
 ---
 
 ## 📚 Publications & Certifications
 
-### Research & Patents
-- 📜 **Research Paper** - Springer Nature (BMC Plant Biology): *Tomato Leaf Disease and Severity Prediction using Multi-Task Learning* (April 2026)
-- 🏆 **Patent Published** - System and Method for Medical Report Analysis using NLP and Multilingual Translation (Jan 2026)
+<div align="center">
 
-### Professional Certifications
-- 🤖 **AI Agent Specialization**: CrewAI - deeplearning.ai (Jul 2025)
+| Type | Title | Date |
+|------|-------|------|
+| 📜 **Research** | Tomato Leaf Disease Prediction (Multi-Task Learning) - Springer Nature | April 2026 |
+| 🏆 **Patent** | Medical Report Analysis using NLP & Multilingual Translation | Jan 2026 |
+| 🤖 **Certification** | AI Agent Specialization: CrewAI (deeplearning.ai) | Jul 2025 |
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**Symbiosis Institute of Technology, Lavale, Pune**
-- B.Tech in Artificial Intelligence and Machine Learning (2023 - 2027)
-- CGPA: 7.71/10
+```
+📚 Symbiosis Institute of Technology, Pune
+   └─ B.Tech in Artificial Intelligence & Machine Learning
+      ├─ Duration: 2023 - 2027
+      ├─ CGPA: 7.76/10
+      └─ Focus: ML, DL, CV, NLP
+```
 
+---
+
+## 📈 Current Learning
+
+<div align="center">
+
+```
+🧠 Advanced Reinforcement Learning
+🔗 Multi-Task Learning Architectures  
+🚀 Large Language Model Fine-tuning
+⚡ Edge AI & Model Compression
+```
+
+</div>
 
 ---
 
 ## 🤝 Connect with Me!
 
-<div>
-    <a href="https://www.linkedin.com/in/anusri-kadam/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/anusri-kadam" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:anusrikadam@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://anusrik-ai.lovable.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-    </a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusri-kadam/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anusri-kadam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusrikadam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=web&logoColor=white)](https://anusri-kadam.com)
+
 </div>
 
 ---
 
-## 💼 Looking to Collaborate?
+## 💼 Open to Opportunities
 
 > [!IMPORTANT]  
-> I'm actively seeking opportunities in **AI/ML Engineering**, **Computer Vision**, and **NLP**. 
-> 
-> 📄 **[Download my Resume](https://drive.google.com/file/d/1sMLLnTawkbJJfYQN_t_DXxfZFw9i2Tk7/view?usp=drive_link)** to learn more!
+> **🎯 I'm actively seeking opportunities in:**
+> - **AI/ML Engineering** | **Computer Vision** | **NLP Applications**
+> - **Production ML Systems** | **Healthcare AI** | **Fintech Solutions**
 >
-> Feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/anusri-kadam/](https://www.linkedin.com/feed/) or email me at anusrikadam@gmail.com
+> 📄 **[Download my Resume](https://drive.google.com/drive/folders/YOUR-DRIVE-LINK)**
+>
+> 📧 **Email:** anusrikadam@gmail.com | 📱 **Mobile:** +91 8850234206
+
+---
+
+## 🎯 Key Highlights
+
+<div align="center">
+
+| 🏆 | 🤖 | 📊 | 🚀 |
+|:---:|:---:|:---:|:---:|
+| **1 Patent Published** | **5+ Major Projects** | **3 Publications** | **Production Deployed** |
+| Medical Report System | Real-world solutions | Research papers | Healthcare & Fintech |
+
+</div>
+
+---
+
+## 💡 Fun Fact
+
+```
+While training ML models by day, I'm exploring how AI can solve real-world 
+problems in healthcare, environmental conservation, and financial fraud detection! 
+🌍💙
+```
 
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" alt="footer"/>
+
+<div align="center">
+  
+  ⭐ **If you find any of my projects interesting, please give them a star!** ⭐
+  
+  Thanks for visiting my profile! 💙
+  
+  [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat)](https://github.com/anusri-kadam)
+  
+</div>
 
 <!--
      Thanks for visiting my profile! 💙
