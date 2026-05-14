@@ -229,10 +229,10 @@ Edge AI & Model Compression
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusri-kadam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anusri-kadam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusri-kadam-433679285/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anusri-k29)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusrikadam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AC3097?style=for-the-badge&logo=web&logoColor=white)](https://anusri-kadam.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AC3097?style=for-the-badge&logo=web&logoColor=white)](https://anusrik-ai.lovable.app/)
 
 </div>
 
@@ -245,9 +245,9 @@ Edge AI & Model Compression
 > - AI/ML Engineering | Computer Vision | NLP Applications
 > - Production ML Systems | Healthcare AI | Fintech Solutions
 >
-> Download my Resume: [Google Drive Link](https://drive.google.com/drive/folders/YOUR-DRIVE-LINK)
+> Download my Resume: [Google Drive Link]([https://drive.google.com/drive/folders/YOUR-DRIVE-LINK](https://drive.google.com/file/d/1sMLLnTawkbJJfYQN_t_DXxfZFw9i2Tk7/view?usp=drive_link)
 >
-> Email: anusrikadam@gmail.com | Mobile: +91 8850234206
+> Email: anusrikadam@gmail.com
 
 ---
 
@@ -271,7 +271,6 @@ Edge AI & Model Compression
   
   Thanks for visiting my profile!
   
-  Made with care - [GitHub Profile](https://github.com/anusri-kadam)
   
 </div>
 
