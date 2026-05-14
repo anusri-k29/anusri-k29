@@ -35,17 +35,21 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 
 
-##  Technical Stack
+## Technical Stack
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### $${\color{#AC3097}Languages \space \& \space Frameworks}$$
+### Languages & Frameworks
 
 ```txt
-├── Python, Java, SQL, JavaScript, C
-├── TensorFlow, PyTorch, Keras
+├── Python, Java, SQL
+├── JavaScript, C
+├── TensorFlow, PyTorch
+├── Keras
 └── React.js, HTML, CSS
 ```
 
@@ -53,10 +57,11 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 <td align="center" width="50%">
 
-### $${\color{#AC3097}Specialized \space Skills}$$
+### Specialized Skills
 
 ```txt
-├── Computer Vision & OpenCV
+├── Computer Vision
+├── OpenCV
 ├── NLP & Transformers
 ├── Vision Language Models
 └── Explainable AI (XAI)
@@ -68,19 +73,20 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 <tr>
 <td align="center" width="50%">
 
-### $${\color{#AC3097}Data \space \& \space Databases}$$
+### Data & Databases
 
 ```txt
 ├── MongoDB, MySQL
-├── Pandas, NumPy, Power BI
-└── Data Preprocessing & Analysis
+├── Pandas, NumPy
+├── Power BI
+└── Data Analysis
 ```
 
 </td>
 
 <td align="center" width="50%">
 
-### $${\color{#AC3097}Deployment \space \& \space Tools}$$
+### Deployment & Tools
 
 ```txt
 ├── Git, Docker, AWS
@@ -96,7 +102,6 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 </div>
 
 ---
-
 ## Featured Projects
 
 <div align="center">
