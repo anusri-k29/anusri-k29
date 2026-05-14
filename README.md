@@ -7,7 +7,7 @@
     You may also want to connect with me on LinkedIn @anusri-kadam
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=80&fontFamily=Courier%20New&fontColor=fff" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC3097&height=120&section=header&text=Anusri%20Kadam&fontSize=80&fontFamily=Monaspace%20New&fontColor=fff" alt="header"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
