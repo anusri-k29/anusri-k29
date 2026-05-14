@@ -33,52 +33,67 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 </div>
 
-### Technical Stack
+
+
+##  Technical Stack
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Languages & Frameworks</h4>
+### $${\color{#AC3097}Languages \space \& \space Frameworks}$$
 
-- Python, Java, SQL, JavaScript, C
-- TensorFlow, PyTorch, Keras
-- React.js, HTML, CSS
+```txt
+├── Python, Java, SQL, JavaScript, C
+├── TensorFlow, PyTorch, Keras
+└── React.js, HTML, CSS
+```
 
 </td>
-<td width="50%">
 
-<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Specialized Skills</h4>
+<td align="center" width="50%">
 
-- Computer Vision & OpenCV
-- NLP & Transformers (T5, SpaCy)
-- Vision Language Models
-- Explainable AI (XAI)
+### $${\color{#AC3097}Specialized \space Skills}$$
+
+```txt
+├── Computer Vision & OpenCV
+├── NLP & Transformers
+├── Vision Language Models
+└── Explainable AI (XAI)
+```
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Data & Databases</h4>
+### $${\color{#AC3097}Data \space \& \space Databases}$$
 
-- MongoDB, MySQL
-- Power BI, Pandas, NumPy
-- Data preprocessing & analysis
+```txt
+├── MongoDB, MySQL
+├── Pandas, NumPy, Power BI
+└── Data Preprocessing & Analysis
+```
 
 </td>
-<td width="50%">
 
-<h4 style="color: #AC3097; border-bottom: 2px solid #AC3097;">Deployment & Tools</h4>
+<td align="center" width="50%">
 
-- Production deployment
-- Model optimization
-- Git, Docker, AWS
-- Software testing
+### $${\color{#AC3097}Deployment \space \& \space Tools}$$
+
+```txt
+├── Git, Docker, AWS
+├── Production Deployment
+├── Model Optimization
+└── Software Testing
+```
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
