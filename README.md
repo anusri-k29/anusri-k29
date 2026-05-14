@@ -116,7 +116,7 @@ I occasionally share insights on AI, machine learning, and tech career developme
     <a href="mailto:anusrikadam@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://anusri-kadam.com" target="_blank">
+    <a href="https://anusrik-ai.lovable.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
