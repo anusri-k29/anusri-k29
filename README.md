@@ -45,13 +45,11 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 ### Languages & Frameworks
 
-```txt
-├── Python, Java, SQL
-├── JavaScript, C
-├── TensorFlow, PyTorch
-├── Keras
-└── React.js, HTML, CSS
-```
+• Python, Java, SQL  
+• JavaScript, C  
+• TensorFlow, PyTorch  
+• Keras  
+• React.js, HTML, CSS  
 
 </td>
 
@@ -59,13 +57,11 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 ### Specialized Skills
 
-```txt
-├── Computer Vision
-├── OpenCV
-├── NLP & Transformers
-├── Vision Language Models
-└── Explainable AI (XAI)
-```
+• Computer Vision  
+• OpenCV  
+• NLP & Transformers  
+• Vision Language Models  
+• Explainable AI (XAI)  
 
 </td>
 </tr>
@@ -75,12 +71,10 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 ### Data & Databases
 
-```txt
-├── MongoDB, MySQL
-├── Pandas, NumPy
-├── Power BI
-└── Data Analysis
-```
+• MongoDB, MySQL  
+• Pandas, NumPy  
+• Power BI  
+• Data Analysis  
 
 </td>
 
@@ -88,18 +82,18 @@ Location: **Pune, India** | **Third-year B.Tech in AIML** at Symbiosis Institute
 
 ### Deployment & Tools
 
-```txt
-├── Git, Docker, AWS
-├── Production Deployment
-├── Model Optimization
-└── Software Testing
-```
+• Git, Docker, AWS  
+• Production Deployment  
+• Model Optimization  
+• Software Testing  
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ---
 ## Featured Projects
